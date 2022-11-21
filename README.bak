@@ -1,0 +1,31 @@
+# PITACOS DA COPA
+
+App de pitacos da copa do mundo de 2022
+
+# Desenvolvimento
+Gabriel Bezerra
+William Barata
+
+## Ferramentas
+Para desenvolvimento é necessário ter instalado o `nodejs v16^` e compilado pelo `expo`, necessário executar os comandos abaixo em um terminal:
+
+    1. npm install 
+    2. npm install react-native
+    3. npm install expo -g
+    4. npm install expo-cli
+
+## Iniciando o desenvolvimento
+Para iniciar o desenvolvimento entre na pasta que o checkout foi realizado e execute o comando `npm install`
+
+Para iniciar o compilador do react-native baixe o app `expo go` em seu dispositivo mobile, execute o comando `npx expo start` no terminal do desktop e ler o codigo QR informado com o leitor do aplicativo `expo go`
+
+
+## Desenvolvimento
+
+Gabriel Bezerra <gabriel.pereira@riosoft.com.br>
+
+William Santos <william.santos@riosoft.com.br>
+
+## Redação
+> Natalie de Olim Valença <natalie.valenca@riosoft.com.br>
+
